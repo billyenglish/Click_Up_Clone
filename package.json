@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/billyenglish/click_up_clone",
-  "name": "create_todo",
+  "name": "click_up_clone",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
